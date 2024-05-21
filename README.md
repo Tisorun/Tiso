@@ -227,7 +227,7 @@
 ### 프로젝트 산출물
 
 -   [기능명세서](https://saber-circle-3a4.notion.site/9e9e996a08e849cb90723452cd8e7bcc)
--   [시스템 아키텍처](docs/프로젝트%20산출물/시스템아키텍처.md)
+-   [시스템 아키텍처](https://github.com/Tisorun/Tiso/assets/77044696/72317b18-10cf-45df-89a5-053edcc32011)
 -   [와이어프레임](https://www.figma.com/file/0DDjCyLNKywBB8fPEVG39c/%ED%8A%B9%ED%99%94B308-WireFrame?type=design&node-id=0%3A1&mode=design&t=2iTlIruGBPeeCLg3-1)
 -   [ERD](https://www.erdcloud.com/d/XtfXjLhRTTZepzt8H)
 -   [API 명세서](https://saber-circle-3a4.notion.site/API-6c8bdfa3cea44cffb5eed5cb6f8f8609)
